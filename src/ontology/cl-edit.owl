@@ -5047,7 +5047,7 @@ SubClassOf(obo:CL_0000197 obo:CL_0000003)
 
 # Class: obo:CL_0000198 (pain receptor cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:A08.800.550.700.650"^^xsd:string) obo:IAO_0000115 obo:CL_0000198 "The peripheral receptor for pain. Includes receptors which are sensitive to painful mechanical stimuli, extreme heat or cold, and chemical stimuli. All mammalian nociceptors are free nerve endings."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:D009619"^^xsd:string) obo:IAO_0000115 obo:CL_0000198 "The peripheral receptor for pain. Includes receptors which are sensitive to painful mechanical stimuli, extreme heat or cold, and chemical stimuli. All mammalian nociceptors are free nerve endings."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CL_0000198 "nociceptor"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CL_0000198 "nocireceptor"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:CL_0000198 "cell"^^xsd:string)
@@ -5095,7 +5095,7 @@ SubClassOf(obo:CL_0000204 obo:CL_0000006)
 
 # Class: obo:CL_0000205 (thermoreceptor cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "GOC:tfm"^^xsd:string) Annotation(oboInOwl:hasDbXref "MESH:A08.800.550.700.840"^^xsd:string) Annotation(oboInOwl:hasDbXref "MP:0000971"^^xsd:string) obo:IAO_0000115 obo:CL_0000205 "A cellular receptor which mediates the sense of temperature. Thermoreceptor cells in vertebrates are mostly located under the skin. In mammals there are separate types of thermoreceptors for cold and for warmth and pain receptor cells which detect cold or heat extreme enough to cause pain."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "GOC:tfm"^^xsd:string) Annotation(oboInOwl:hasDbXref "MESH:D013823"^^xsd:string) Annotation(oboInOwl:hasDbXref "MP:0000971"^^xsd:string) obo:IAO_0000115 obo:CL_0000205 "A cellular receptor which mediates the sense of temperature. Thermoreceptor cells in vertebrates are mostly located under the skin. In mammals there are separate types of thermoreceptors for cold and for warmth and pain receptor cells which detect cold or heat extreme enough to cause pain."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:CL_0000205 "cell"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:CL_0000205 "thermoreceptor cell"^^xsd:string)
 EquivalentClasses(obo:CL_0000205 ObjectIntersectionOf(obo:CL_0000006 ObjectSomeValuesFrom(obo:RO_0002215 obo:GO_0050960)))
@@ -6310,7 +6310,7 @@ EquivalentClasses(obo:CL_0000350 ObjectIntersectionOf(obo:CL_0000349 ObjectSomeV
 
 # Class: obo:CL_0000351 (trophoblast cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "GOC:tfm"^^xsd:string) Annotation(oboInOwl:hasDbXref "MESH:A11.936"^^xsd:string) obo:IAO_0000115 obo:CL_0000351 "A cell lining the outside of the blastocyst. After binding to the endometrium, trophoblast cells develop into two distinct layers, an inner layer of mononuclear cytotrophoblast cells and an outer layer of continuous multinuclear cytoplasm, the syncytiotrophoblast cells, which form the early fetal-maternal interface."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "GOC:tfm"^^xsd:string) Annotation(oboInOwl:hasDbXref "MESH:D014327"^^xsd:string) obo:IAO_0000115 obo:CL_0000351 "A cell lining the outside of the blastocyst. After binding to the endometrium, trophoblast cells develop into two distinct layers, an inner layer of mononuclear cytotrophoblast cells and an outer layer of continuous multinuclear cytoplasm, the syncytiotrophoblast cells, which form the early fetal-maternal interface."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000351 "FMA:83028"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CL_0000351 "trophoblastic cell"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:CL_0000351 "cell"^^xsd:string)
@@ -6327,7 +6327,7 @@ SubClassOf(obo:CL_0000352 obo:CL_0000052)
 
 # Class: obo:CL_0000353 (blastoderm cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:A11.104"^^xsd:string) obo:IAO_0000115 obo:CL_0000353 "An undifferentiated cell produced by early cleavages of the fertilized egg (zygote)."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:D001756"^^xsd:string) obo:IAO_0000115 obo:CL_0000353 "An undifferentiated cell produced by early cleavages of the fertilized egg (zygote)."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000353 "BTO:0001473"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000353 "FMA:72551"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CL_0000353 "blastomere"^^xsd:string)
@@ -6385,7 +6385,7 @@ SubClassOf(Annotation(oboInOwl:is_inferred "true") obo:CL_0000359 obo:CL_0000192
 
 # Class: obo:CL_0000360 (morula cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:A16.254.270.550"^^xsd:string) obo:IAO_0000115 obo:CL_0000360 "A cell of the early embryo at the developmental stage in which the blastomeres, resulting from repeated mitotic divisions of the fertilized ovum (zygote), form a compact cell mass."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:D009028"^^xsd:string) obo:IAO_0000115 obo:CL_0000360 "A cell of the early embryo at the developmental stage in which the blastomeres, resulting from repeated mitotic divisions of the fertilized ovum (zygote), form a compact cell mass."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:CL_0000360 "cell"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:CL_0000360 "morula cell"^^xsd:string)
 SubClassOf(obo:CL_0000360 obo:CL_0000007)
@@ -6393,7 +6393,7 @@ SubClassOf(obo:CL_0000360 ObjectSomeValuesFrom(obo:BFO_0000050 obo:UBERON_000008
 
 # Class: obo:CL_0000361 (gastrula cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:A16.254.412"^^xsd:string) obo:IAO_0000115 obo:CL_0000361 "A cell of the embryo in the early stage following the blastula, characterized by morphogenetic cell movements, cell differentiation, and the formation of the three germ layers."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:D005775"^^xsd:string) obo:IAO_0000115 obo:CL_0000361 "A cell of the embryo in the early stage following the blastula, characterized by morphogenetic cell movements, cell differentiation, and the formation of the three germ layers."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:CL_0000361 "cell"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:CL_0000361 "gastrula cell"^^xsd:string)
 SubClassOf(obo:CL_0000361 obo:CL_0000007)
@@ -8563,7 +8563,7 @@ SubClassOf(obo:CL_0000603 obo:CL_0000600)
 
 # Class: obo:CL_0000604 (retinal rod cell)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:A08.663.650.650.670.650"^^xsd:string) obo:IAO_0000115 obo:CL_0000604 "One of the two photoreceptor cell types of the vertebrate retina. In rods the photopigment is in stacks of membranous disks separate from the outer cell membrane. Rods are more sensitive to light than cones, but rod mediated vision has less spatial and temporal resolution than cone vision."^^xsd:string)
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "MESH:D017948"^^xsd:string) obo:IAO_0000115 obo:CL_0000604 "One of the two photoreceptor cell types of the vertebrate retina. In rods the photopigment is in stacks of membranous disks separate from the outer cell membrane. Rods are more sensitive to light than cones, but rod mediated vision has less spatial and temporal resolution than cone vision."^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000604 "BTO:0001024"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000604 "CALOHA:TS-0870"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasDbXref obo:CL_0000604 "FMA:67747"^^xsd:string)

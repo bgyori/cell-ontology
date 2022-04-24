@@ -1,0 +1,99 @@
+cl_id,cl_name,old_mapping,method,new_mapping,new_mapping_name,new_mapping_url
+CL:0000017,spermatocyte,A05.360.490.890.880,tree,D013090,Spermatocytes,https://bioregistry.io/mesh:D013090
+CL:0000018,spermatid,A05.360.490.890.860,tree,D013087,Spermatids,https://bioregistry.io/mesh:D013087
+CL:0000019,sperm,A05.360.490.890,tree,D013094,Spermatozoa,https://bioregistry.io/mesh:D013094
+CL:0000020,spermatogonium,A05.360.490.890.900,tree,D013093,Spermatogonia,https://bioregistry.io/mesh:D013093
+CL:0000034,stem cell,A11.872,tree,D013234,Stem Cells,https://bioregistry.io/mesh:D013234
+CL:0000056,myoblast,A11.635,gilda,D032446,Myoblasts,https://bioregistry.io/mesh:D032446
+CL:0000057,fibroblast,A11.329.228,tree,D005347,Fibroblasts,https://bioregistry.io/mesh:D005347
+CL:0000059,ameloblast,A11.436.107,tree,D000565,Ameloblasts,https://bioregistry.io/mesh:D000565
+CL:0000062,osteoblast,A11.329.629,tree,D010006,Osteoblasts,https://bioregistry.io/mesh:D010006
+CL:0000066,epithelial cell,A11.436,tree,D004847,Epithelial Cells,https://bioregistry.io/mesh:D004847
+CL:0000091,Kupffer cell,A11.329.372.588,tree,D007728,Kupffer Cells,https://bioregistry.io/mesh:D007728
+CL:0000094,granulocyte,A11.118.637.415,tree,D006098,Granulocytes,https://bioregistry.io/mesh:D006098
+CL:0000096,mature neutrophil,A11.118.637.415.583,tree,D009504,Neutrophils,https://bioregistry.io/mesh:D009504
+CL:0000097,mast cell,A11.329.427,tree,D008407,Mast Cells,https://bioregistry.io/mesh:D008407
+CL:0000099,interneuron,A08.663.358,gilda,D007395,Interneurons,https://bioregistry.io/mesh:D007395
+CL:0000100,motor neuron,A08.663.655.500,gilda,D009046,Motor Neurons,https://bioregistry.io/mesh:D009046
+CL:0000121,Purkinje cell,A08.186.211.132.810.428.200.212.600,tree,D011689,Purkinje Cells,https://bioregistry.io/mesh:D011689
+CL:0000125,glial cell,A08.637,tree,D009457,Neuroglia,https://bioregistry.io/mesh:D009457
+CL:0000127,astrocyte,A08.637.200,tree,D001253,Astrocytes,https://bioregistry.io/mesh:D001253
+CL:0000128,oligodendrocyte,A08.637.600,tree,D009836,Oligodendroglia,https://bioregistry.io/mesh:D009836
+CL:0000132,corneal endothelial cell,A09.371.060.067.31,,,,
+CL:0000136,fat cell,A11.329.114,tree,D017667,Adipocytes,https://bioregistry.io/mesh:D017667
+CL:0000137,osteocyte,A11.329.629.500,tree,D010011,Osteocytes,https://bioregistry.io/mesh:D010011
+CL:0000138,chondrocyte,A11.329.171,tree,D019902,Chondrocytes,https://bioregistry.io/mesh:D019902
+CL:0000160,goblet cell,A03.492.411.369.320,gilda,D020397,Goblet Cells,https://bioregistry.io/mesh:D020397
+CL:0000163,endocrine cell,A06.407,gilda,D055098,Endocrine Cells,https://bioregistry.io/mesh:D055098
+CL:0000165,neuroendocrine cell,A06.688,tree,D009490,Neurosecretory Systems,https://bioregistry.io/mesh:D009490
+CL:0000166,chromaffin cell,A06.224.161,tree,D019439,Chromaffin Cells,https://bioregistry.io/mesh:D019439
+CL:0000175,luteal cell,A05.360.319.114.630.278.400,tree,D008184,Luteal Cells,https://bioregistry.io/mesh:D008184
+CL:0000182,hepatocyte,A11.436.348,tree,D022781,Hepatocytes,https://bioregistry.io/mesh:D022781
+CL:0000187,muscle cell,A11.620,tree,D032342,Muscle Cells,https://bioregistry.io/mesh:D032342
+CL:0000192,smooth muscle cell,A11.620.520,tree,D032389,"Myocytes, Smooth Muscle",https://bioregistry.io/mesh:D032389
+CL:0000193,cardiac muscle cell (sensu Arthopoda),A11.620.500,tree,D032383,"Myocytes, Cardiac",https://bioregistry.io/mesh:D032383
+CL:0000198,pain receptor cell,A08.800.550.700.650,gilda,D009619,Nociceptors,https://bioregistry.io/mesh:D009619
+CL:0000199,mechanoreceptor cell,A08.800.550.700.500,gilda,D008465,Mechanoreceptors,https://bioregistry.io/mesh:D008465
+CL:0000202,auditory hair cell,A08.663.650.250,gilda,D006198,"Hair Cells, Auditory",https://bioregistry.io/mesh:D006198
+CL:0000205,thermoreceptor cell,A08.800.550.700.840,gilda,D013823,Thermoreceptors,https://bioregistry.io/mesh:D013823
+CL:0000206,chemoreceptor cell,A08.800.550.700.120,gilda,D002628,Chemoreceptor Cells,https://bioregistry.io/mesh:D002628
+CL:0000210,photoreceptor cell,A08.663.650.650,gilda,D010786,Photoreceptor Cells,https://bioregistry.io/mesh:D010786
+CL:0000216,Sertoli cell,A05.360.444.849.789,tree,D012708,Sertoli Cells,https://bioregistry.io/mesh:D012708
+CL:0000218,myelinating Schwann cell,A08.637.800,tree,D012583,Schwann Cells,https://bioregistry.io/mesh:D012583
+CL:0000221,ectodermal cell,A16.254.425.273,,,,
+CL:0000222,mesodermal cell,A16.254.425.660,,,,
+CL:0000223,endodermal cell,A16.254.425.407,,,,
+CL:0000232,erythrocyte,A11.118.290,tree,D004912,Erythrocytes,https://bioregistry.io/mesh:D004912
+CL:0000233,platelet,A11.118.188,tree,D001792,Blood Platelets,https://bioregistry.io/mesh:D001792
+CL:0000242,Merkel cell,A08.800.550.700.500.425,,,,
+CL:0000312,keratinocyte,A11.436.397,tree,D015603,Keratinocytes,https://bioregistry.io/mesh:D015603
+CL:0000315,tear secreting cell,A12.200.882,tree,D013666,Tears,https://bioregistry.io/mesh:D013666
+CL:0000317,sebum secreting cell,A12.200.702,tree,D012629,Sebum,https://bioregistry.io/mesh:D012629
+CL:0000318,sweat secreting cell,A12.200.849,tree,D013542,Sweat,https://bioregistry.io/mesh:D013542
+CL:0000333,migratory neural crest cell,A16.254.600,,,,
+CL:0000351,trophoblast cell,A11.936,gilda,D014327,Trophoblasts,https://bioregistry.io/mesh:D014327
+CL:0000353,blastoderm cell,A11.104,gilda,D001756,Blastoderm,https://bioregistry.io/mesh:D001756
+CL:0000360,morula cell,A16.254.270.550,gilda,D009028,Morula,https://bioregistry.io/mesh:D009028
+CL:0000361,gastrula cell,A16.254.412,gilda,D005775,Gastrula,https://bioregistry.io/mesh:D005775
+CL:0000448,white fat cell,A11.329.114.500,tree,D052438,"Adipocytes, White",https://bioregistry.io/mesh:D052438
+CL:0000449,brown fat cell,A10.165.114.322,tree,D002001,"Adipose Tissue, Brown",https://bioregistry.io/mesh:D002001
+CL:0000492,CD4-positive helper T cell,A11.118.637.555.567.569.200.400,tree,D006377,"T-Lymphocytes, Helper-Inducer",https://bioregistry.io/mesh:D006377
+CL:0000499,stromal cell,A11.329.830,tree,D017154,Stromal Cells,https://bioregistry.io/mesh:D017154
+CL:0000501,granulosa cell,A05.360.319.114.630.535.200,tree,D006107,Granulosa Cells,https://bioregistry.io/mesh:D006107
+CL:0000502,type D enteroendocrine cell,A03.492.766.440.175,,,,
+CL:0000503,theca cell,A05.360.319.114.630.535.400,tree,D013799,Theca Cells,https://bioregistry.io/mesh:D013799
+CL:0000504,enterochromaffin-like cell,A06.224.365,tree,D019861,Enterochromaffin-like Cells,https://bioregistry.io/mesh:D019861
+CL:0000508,type G enteroendocrine cell,A03.492.766.440.300,,,,
+CL:0000510,paneth cell,A03.492.411.369.700,gilda,D019879,Paneth Cells,https://bioregistry.io/mesh:D019879
+CL:0000513,cardiac muscle myoblast,A11.635.470,,,,
+CL:0000514,smooth muscle myoblast,A11.635.510,gilda,D032390,"Myoblasts, Smooth Muscle",https://bioregistry.io/mesh:D032390
+CL:0000516,perineuronal satellite cell,A08.340.685,tree,D027161,"Satellite Cells, Perineuronal",https://bioregistry.io/mesh:D027161
+CL:0000524,spheroplast,A11.868,tree,D013104,Spheroplasts,https://bioregistry.io/mesh:D013104
+CL:0000526,afferent neuron,A08.663.650,gilda,D009475,"Neurons, Afferent",https://bioregistry.io/mesh:D009475
+CL:0000527,efferent neuron,A08.663.655,gilda,D009476,"Neurons, Efferent",https://bioregistry.io/mesh:D009476
+CL:0000528,nitrergic neuron,A08.663.748,gilda,D026602,Nitrergic Neurons,https://bioregistry.io/mesh:D026602
+CL:0000540,neuron,A08.663,gilda,D009474,Neurons,https://bioregistry.io/mesh:D009474
+CL:0000547,proerythroblast,A11.118.290.350.200,,,,
+CL:0000561,amacrine cell,A08.663.358.050,gilda,D025042,Amacrine Cells,https://bioregistry.io/mesh:D025042
+CL:0000568,amine precursor uptake and decarboxylation cell,A11.070,,,,
+CL:0000573,retinal cone cell,A08.663.650.650.670.100,gilda,D017949,Retinal Cone Photoreceptor Cells,https://bioregistry.io/mesh:D017949
+CL:0000576,monocyte,A11.118.637.555.652,tree,D009000,Monocytes,https://bioregistry.io/mesh:D009000
+CL:0000577,type EC enteroendocrine cell,A03.492.766.440.250,,,,
+CL:0000581,peritoneal macrophage,A11.329.372.630,tree,D017737,"Macrophages, Peritoneal",https://bioregistry.io/mesh:D017737
+CL:0000583,alveolar macrophage,A11.329.372.600,tree,D016676,"Macrophages, Alveolar",https://bioregistry.io/mesh:D016676
+CL:0000586,germ cell,A05.360.490,tree,D005854,Germ Cells,https://bioregistry.io/mesh:D005854
+CL:0000588,odontoclast,A11.329.679,,,,
+CL:0000589,cochlear inner hair cell,A08.663.650.250.250,gilda,D006199,"Hair Cells, Auditory, Inner",https://bioregistry.io/mesh:D006199
+CL:0000590,small luteal cell,A05.360.319.114.630.278.400,tree,D008184,Luteal Cells,https://bioregistry.io/mesh:D008184
+CL:0000592,large luteal cell,A05.360.319.114.630.278.400,tree,D008184,Luteal Cells,https://bioregistry.io/mesh:D008184
+CL:0000594,skeletal muscle satellite cell,A11.635.500.700,gilda,D032496,"Satellite Cells, Skeletal Muscle",https://bioregistry.io/mesh:D032496
+CL:0000598,pyramidal neuron,A08.186.211.577.405.700,gilda,D017966,Pyramidal Cells,https://bioregistry.io/mesh:D017966
+CL:0000601,cochlear outer hair cell,A08.663.650.250.315,gilda,D018072,"Hair Cells, Auditory, Outer",https://bioregistry.io/mesh:D018072
+CL:0000602,pressoreceptor cell,A08.800.050.800.900.700,tree,D011311,Pressoreceptors,https://bioregistry.io/mesh:D011311
+CL:0000604,retinal rod cell,A08.663.650.650.670.650,gilda,D017948,Retinal Rod Photoreceptor Cells,https://bioregistry.io/mesh:D017948
+CL:0000609,vestibular hair cell,A08.663.650.250.380,gilda,D018069,"Hair Cells, Vestibular",https://bioregistry.io/mesh:D018069
+CL:0000631,labyrinth supporting cell,A09.246.631.246.577.543,gilda,D007760,Labyrinth Supporting Cells,https://bioregistry.io/mesh:D007760
+CL:0002150,epithelioid macrophage,A11.329.372.300,tree,D015622,Epithelioid Cells,https://bioregistry.io/mesh:D015622
+CL:0002211,type I muscle cell,A02.633.565.700,,,,
+CL:0002272,motilin secreting cell,D06.472.317.525,tree,D009037,Motilin,https://bioregistry.io/mesh:D009037
+CL:0002336,buccal mucosa cell,A10.615.550.599,tree,D009061,Mouth Mucosa,https://bioregistry.io/mesh:D009061
